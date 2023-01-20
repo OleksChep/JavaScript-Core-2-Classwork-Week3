@@ -10,6 +10,11 @@ body {
     "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
+.redStyle {
+  background-color: red;
+  font-size: 10px;
+}
+
 .site-footer {
   margin-top: 4em;
 }
